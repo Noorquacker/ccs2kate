@@ -1,3 +1,5 @@
-# FE07-AMS_Master
+# ccs2kate
 
-Wiki Link: http://cortex.device.mst.edu/mediawiki/index.php/Accumulator_Management_System(AMS)
+Example code showing ccs2kate running on formula electric's AMS code
+
+And also the main branch of development because why not
